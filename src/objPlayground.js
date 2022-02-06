@@ -41,7 +41,6 @@ const calculator = (number1, number2) => (
    sub: number1 - number2,
   }
 );
-
 // forma reduzida
 const arrayGenerator = (type, object) => Object[type](object);
 
